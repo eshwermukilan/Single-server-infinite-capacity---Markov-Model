@@ -1,4 +1,4 @@
-# Name: Amirtha ESHWER M
+# Name: ESHWER M
 # Register number: 212224040086
 
 # EX NO 4: Single server with infinite capacity (M/M/1):(oo/FIFO)
